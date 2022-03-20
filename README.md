@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @buraklynn
+- 👀 I’m interested in AI, games
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on game devoloping 
+- 📫 burak.wolta@gmail.com
